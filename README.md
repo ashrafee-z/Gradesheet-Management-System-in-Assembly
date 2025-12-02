@@ -84,7 +84,7 @@ name_record = [max_length][current_length][characters...][$]
 
 ## Program Flow: 
 
----
+```
 Welcome Screen
      ↓
 Main Menu
@@ -101,7 +101,7 @@ Class Menu
  │ 5. Report Card                                          │
  │ 6. Back                                                 │
  └────────────────────────────────────────────────────────┘
----
+```
 
 ## Requirements: 
 
